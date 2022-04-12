@@ -1,0 +1,81 @@
+h1{
+    text-align: center;
+    border: 3px solid;
+    padding: 13px 13px 13px 20px ;
+    margin: 10px 20px;
+}
+
+    
+#menu {
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: right;
+}
+
+.contact-us{
+    width: 80%;
+    margin:auto
+}
+
+.comment-box{
+    border: 1px solid #ccc;
+    margin: 50px 0;
+    padding: 10px 20px;
+    
+}
+.comment-box h3{
+    text-align: left;
+}
+
+.comment-form input, .comment-form textarea{
+    width: 100%;
+    padding: 10px;
+    margin:15px 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    background: #f0f0f0;
+}
+
+/* contact us page */
+
+.gmap iframe{
+    width: 80%;
+    margin: 5% 10%;
+}
+
+.contact-us{
+    width: 80%;
+    margin:auto
+}
+
+.contact-col{
+    flex-basis: 48%;
+    margin-bottom: 50px;
+}
+
+.contact-col div{
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.contact-col div .fas, .contact-col div .far{
+    margin: 20px;
+    margin-right: 40px;
+    color: #f44336;
+    font-size: 24px;
+}
+
+.contact-col div h1{
+    margin-bottom: 5px;
+}
+
+.inquiry-form input, .inquiry-form textarea{
+    border: 1px solid #ccc;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    box-sizing: border-box;
+    /* outline: 1px solid #f44336; *

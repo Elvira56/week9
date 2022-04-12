@@ -1,0 +1,45 @@
+body{ background-image: url(image/conventschool.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+
+div{
+background-color: aliceblue;
+color: black
+
+
+
+
+}
+
+p{ text-align: leftt;
+    color: rgb(190, 17, 176);
+    font-size: large;
+}
+h1{
+    background-color: rgb(211, 115, 206);
+    color: rgb(20, 82, 215)
+    
+    
+    
+}
+
+ul,a{
+    text-decoration: none;
+    display: inline;
+    margin-left: 15px;
+    list-style: none;
+}
+div,a{
+    
+    text-align: bottom;
+    
+    text-decoration: none;
+
+}
+
+    
